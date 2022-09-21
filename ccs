@@ -6,9 +6,32 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>CSS Blogpost</title>
     <link rel="stylesheet" href="style.css">
-</head>    
+</head>
 <h1 class="main header bluemadness">We Love Capybaras</h1>
 <img src="https://soranews24.com/wp-content/uploads/sites/3/2014/04/cb-1.png" alt="capybara">
+
 <body>
-<h2>What are capybaras?</h2>
-<p>Capybaras are</p>
+    <div class="background" h2>What are capybaras?</h2>
+        <p>Capybaras are large semiaquatic South American rodents. They are the largest rodents in the world. Capybaras
+            are short haired, brown rodents with short legs, small ears, and visibly no tail. They reside near lakes and
+            rivers. There are two types of capybaras: lesser capybara and greater capybara. Lesser capybara is smaller.</p>
+        >
+    </div>
+    <h2>What do Capybaras eat?</h2>
+   <img src="https://thekidshouldseethis.com/wp-content/uploads/2020/09/capybara-nagasaki-biopark-pumpkins-01.jpg" alt="Capybaras eating a pumpkin">
+   <p>Capybaras are vegetarians and eat aroound 3%-4% of their bdoyweight everyday(around six to eight pounds). Some foods include:</p>
+   <ul>
+    <li>Aquatic plants</li>
+    <li>Plant roots</li>
+    <li>Hay</li>
+    <li>Crowngrass</li>
+    <li>Switchgrass</li>
+    <li>Sugar cane</li>
+    <li>Barks</li>
+ </ul>
+
+    
+    
+    
+
+

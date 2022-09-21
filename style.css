@@ -1,7 +1,12 @@
 body {
-    background-color: pink;
-    color: blueviolet;
+   background-image: url(https://capybaraworld.files.wordpress.com/2021/02/capybaras-at-water-hole-llanos-region-colombia-1.jpg);
+   background-position: center;
+   background-size: cover;
+    color: black;
     font-size: 15px;
+    padding-bottom: 30px;
+    padding-top: 50px;
+    margin: 20px;
   }
   h1 {
     color: black;
@@ -18,4 +23,5 @@ body {
    margin-bottom: 60px;
    font-size: 70px;
   }
- 
+  
+  
