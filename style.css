@@ -1,14 +1,12 @@
 body {
-    background-color: pink;
+background-color: aliceblue;
     color: black;
     font-size: 25px;
     background-image: "https://soranews24.com/wp-content/uploads/sites/3/2014/04/cb-1.png";
     background-position: center;
-    
-  }
-  h1 {
-    color: black;
-  }
+    font-family: 'Kanit', sans-serif;
+}
+  
   .bluemadness {
     color: darkblue;
     font-size: 100px;
@@ -19,14 +17,32 @@ body {
   #id {
     color: brown;
   }
+  
   .card {
-   text-align:center;
-   margin-top: 25px;
-   margin-bottom: 30px;
-   font-size: 25px;
-  }
-  
+    text-align:center;
+    margin-top: 25px;
+    margin-bottom: 30px;
+    font-size: 25px;
+   }
 
+   .container {
+   text-align: center;
+   }
   
-  
+  ul {
+   list-style-type: none;
+  }
  
+  img {
+    border-radius: 10px;
+    margin: 15px;
+  }
+
+  h2, h3 {
+    font-style: italic;
+    
+  }
+  h4{
+   color: red;
+   font-size: 30px
+  }
