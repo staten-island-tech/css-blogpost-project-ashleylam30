@@ -1,6 +1,6 @@
 body {
 background-color: aliceblue;
-   background-image: url(https://capybaraworld.files.wordpress.com/2021/02/capybaras-at-water-hole-llanos-region-colombia-1.jpg);
+   /* background-image: url(https://capybaraworld.files.wordpress.com/2021/02/capybaras-at-water-hole-llanos-region-colombia-1.jpg); */
    background-position: center;
    background-size: cover;
     color: black;
@@ -12,7 +12,6 @@ background-color: aliceblue;
   h1 {
     color: black;
     font-size: 25px;
-    background-image: "https://soranews24.com/wp-content/uploads/sites/3/2014/04/cb-1.png";
     background-position: center;
     font-family: 'Kanit', sans-serif;
 }
@@ -41,6 +40,7 @@ background-color: aliceblue;
   
   ul {
    list-style-type: none;
+   font-weight: 800;
   }
  
   img {
@@ -56,3 +56,8 @@ background-color: aliceblue;
    color: red;
    font-size: 30px
   }
+<<<<<<< HEAD
+=======
+  
+  
+>>>>>>> 02a2ecdfb15327905ed4c1b1eef434dfd1a1114c
